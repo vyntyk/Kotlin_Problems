@@ -1,0 +1,9 @@
+type: hyperskill
+title: Kotlin Problems
+language: English
+summary: All problems in Kotlin programming language that can’t be opened together
+  with currently selected JetBrains Academy project.
+programming_language: Kotlin
+content:
+- Topics
+mode: Study
