@@ -10,6 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Swap elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Invitations and gifts" />
             <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Program a Boolean function" />
             <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Theory" />
@@ -54,6 +59,9 @@
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
             <option value="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
             <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
             <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
             <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
