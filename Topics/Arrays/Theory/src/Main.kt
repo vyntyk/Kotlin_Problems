@@ -1,9 +1,18 @@
 // You can experiment here, it won’t be checked
+fun main() {
+    var number = 5
 
-fun main(args: Array<String>) {
-    val arr = intArrayOf(1, 2, 3, 4, 5, 6, 7, 8, 9)
-    val n = 5
+    repeat(2) {
+        number--
+    }
 
-    val elem = arr[arr[n]]
-    println(elem)
+    repeat(0) {
+        number--
+    }
+
+    repeat(1) {
+        number--
+    }
+
+    println(number)
 }

@@ -4,4 +4,5 @@ fun main() {
     // do not touch the lines above
     // write your code here
     println(beyondTheWall.contentEquals(backFromTheWall))
+    println(beyondTheWall.equals())
 }
