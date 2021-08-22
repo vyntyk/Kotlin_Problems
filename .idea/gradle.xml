@@ -37,6 +37,9 @@
             <option value="$PROJECT_DIR$/Topics/Equality/Referential equality" />
             <option value="$PROJECT_DIR$/Topics/Equality/Theory" />
             <option value="$PROJECT_DIR$/Topics/Equality/True captain" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
             <option value="$PROJECT_DIR$/Topics/If expression/Odd or even" />
             <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Next even number" />
@@ -49,7 +52,10 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Between two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Job" />
             <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Within a range" />
             <option value="$PROJECT_DIR$/Topics/Ranges/Within both ranges" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Fix the input" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task" />
